@@ -1,0 +1,77 @@
+.pie-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+  background-color: #060714;
+  color: white;
+  font-family: 'Sora';
+}
+
+.pie-content {
+  padding-left:100px;
+  max-width: 500px;
+}
+
+.pie-overline {
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-size: 12px;
+  color: #7780A1;
+}
+
+.pie-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.pie-text {
+  font-size: 13px;
+  color: #7780A1;
+  margin: 15px 0;
+}
+
+.pie-buttons {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.pie-started {
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 135px;
+    height: 52px;
+    background: linear-gradient(104.42deg, #4745D0 0%, #2A27C9 60.23%);
+    box-shadow: inset -4px -4px 4px rgba(0, 0, 0, 0.1), inset 4px 4px 4px rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    font-size: 13.5px;
+    text-align: center;
+}
+
+.pie-learn {
+  background-color: transparent;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 130px;
+    height: 52px;
+    border: 2px solid #262840;
+    box-shadow: inset -4px -4px 4px rgba(0, 0, 0, 0.1), inset 4px 4px 4px rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    font-size: 13.5px;
+    text-align: center;
+    color: #7780A1;
+}
+.pie-image{
+  padding-right: 150px;
+}
+.pie-image img {
+  max-width: 100%;
+  height: auto;
+}

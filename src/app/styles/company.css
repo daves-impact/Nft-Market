@@ -1,0 +1,8 @@
+.floating-comp{
+    display: flex;
+    margin-top: 180px;
+    gap:20px;
+}
+.comp{
+    width: 75px;
+}

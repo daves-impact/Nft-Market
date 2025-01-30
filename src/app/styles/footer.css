@@ -1,0 +1,112 @@
+.footer {
+  background-color: #060714;
+    color: white;
+    padding: 50px;
+    font-family: 'Sora';
+  }
+  
+  .footer-container {
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
+  }
+  
+  .column {
+    flex: 1;
+    border: 1px solid #262840;
+    padding: 20px;
+  }
+  .ichi{
+    border-radius: 20px 0px 0px 20px;
+  }
+  .san{
+    border-radius: 0px 20px 20px 0px;
+  }
+  .san p{
+    font-size: 13.5px;
+    margin-bottom: 100px;
+  }
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 120px;
+  }
+  .links{
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .links a {
+    display: block;
+    color: #bbb;
+    font-size: 13px;
+    text-decoration: none;
+    margin-top: 5px;
+  }
+  
+  .menu {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu li a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    display: block;
+    margin: 5px 0;
+  }
+  
+  .accountBtn {
+    background: linear-gradient(90deg, #4b2ae0, #6a4be8);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 10px;
+    background: linear-gradient(104.42deg, #4745D0 0%, #2A27C9 60.23%);
+      box-shadow: inset -4px -4px 4px rgba(0, 0, 0, 0.1), inset 4px 4px 4px rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+  }
+  
+  .socialIcons {
+    margin-top: 15px;
+    display: flex;
+  }
+  
+  .socialIcons a {
+    color: white;
+    font-size: 1.5rem;
+    margin-right: 10px;
+    text-decoration: none;
+  }
+  
+  .newsletter {
+    display: flex;
+    margin-top: 10px;
+    background: white;
+    padding: 5px;
+    border-radius: 12px;
+    align-items: center;
+  }
+  
+  .newsletter input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    color: white;
+    padding: 7px;
+    outline: none;
+  }
+  
+  .newsletter a {
+    background: white;
+    color: #2A27C9;
+    padding: 8px 15px;
+    text-decoration: none;
+    font-size: 13.5px;
+
+  }
+  
