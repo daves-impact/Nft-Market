@@ -6,7 +6,7 @@ import nft2 from '/public/Images/nft2.png';
 import nft3 from '/public/Images/nft3.png';
 import nft4 from '/public/Images/nft4.png';
 import nft5 from '/public/Images/nft5.png';
-import handImage from '/public/Images/Imagehand.png';
+import handImage from '/public/Images/hand.png';
 
 const Dashboard: React.FC = () => {
   return (
