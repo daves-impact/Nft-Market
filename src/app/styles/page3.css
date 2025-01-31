@@ -30,6 +30,7 @@
   .hand-image{
     mix-blend-mode: lighten;
       width:200px;
+      height:400px;
   }
   .section h2 {
     font-size: 1.5rem;
