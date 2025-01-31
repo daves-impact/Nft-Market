@@ -19,8 +19,11 @@ border-radius: 12px;
   }
   .search-bar input::placeholder{
     color: #262840;
+      font-family:'Sora'
   }
-  
+.search-bar select::placeholder{
+  font-family:'Sora'
+}
   .search-bar select {
     background: #FFFFFF;
     color: #262840;
