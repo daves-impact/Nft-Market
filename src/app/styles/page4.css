@@ -70,6 +70,7 @@
       border-radius: 12px;
       font-size: 13.5px;
       text-align: center;
+    font-family:'Sora';
   }
   
   .emo-learn {
@@ -86,13 +87,14 @@
       font-size: 13.5px;
       text-align: center;
       color: #7780A1;
+      font-family:'Sora';
   }
 .emo-image{
     padding-left: 100px;
   }
 .emo-image img {
     max-width: 100%;
-    width:80%;
+    width:60%;
 }
 h3{
     color:white;
