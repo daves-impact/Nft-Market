@@ -100,7 +100,9 @@
     padding: 7px;
     outline: none;
   }
-  
+  .newsletter input::placeholder{
+    font-family: 'Sora';
+  }
   .newsletter a {
     background: white;
     color: #2A27C9;
