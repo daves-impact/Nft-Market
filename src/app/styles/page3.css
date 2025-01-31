@@ -5,7 +5,7 @@
     background-color: #060714;
     color: white;
     padding: 40px 100px;
-    gap: 10px;
+    gap: 20px;
     font-family: 'Sora';
     position: relative;
   }
@@ -16,12 +16,12 @@
     border-radius: 10px;
     width: 30%;
     max-height: 700px;
-    height: 700px;
+/*     height: 700px; */
   }
   .center{
     background: linear-gradient(188.08deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 93.79%), #060714;
     border-radius: 0px 20px 20px 20px;  
-    /* border: 1px solid #262840; */
+    border: 1px solid #262840;
   }
   .center p{
     font-size: 13px;
@@ -29,6 +29,7 @@
   }
   .hand-image{
     mix-blend-mode: lighten;
+      width:200px;
   }
   .section h2 {
     font-size: 1.5rem;
