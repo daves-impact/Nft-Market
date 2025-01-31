@@ -4,7 +4,7 @@
     align-items: center;
     padding: 20px;
     max-width: 100vw;
-    height: 100px;
+    height: 70px;
     background-color: #0D0F2B;
     font-family: 'Sora';
   }
@@ -39,6 +39,8 @@
     font-size: 13.5px;
     text-align: center;
     color: #7780A1;
+      font-family:'Sora';
+      background-color:transparent;
   }
   
   .account-btn {
@@ -50,4 +52,5 @@
     border-radius: 12px;
     font-size: 13.5px;
     text-align: center;
+      font-family:'Sora';
   }
