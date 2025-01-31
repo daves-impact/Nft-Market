@@ -20,7 +20,8 @@ body{
     animation: rotation 30s linear infinite;
   }
    .nft-scroll{
-    width:100px
+    width:100px;
+       height:100px;
    }
   @keyframes rotation {
    0% {
